@@ -338,26 +338,6 @@ console.log(last)
 // <- VanWoerkom
 ```
 
-### Practice
-
-#### Destructuring
-In a scratch .js file, define a JavaScript Object with three keys, `name`, `age`, and `hometown` (use your own info or your neighbors).
-
-Try using the destructuring syntax to extract all three keys into variables.  Log out each variable to the console using `node scratch.js`.
-
-#### Spreading Out
-Define two arrays, `evens` and `odds` filled with even and odd numbers.
-
-Using the spread operator, make a new array `numbers` that contains all of the evens and odds.
-
-#### Merging Objects
-
-Define an object `faveFoods` that has keys representing your favorite foods and the values should be the restaurant or locale where they are from.
-
-Now make another object `friendFaveFoods` and do the same thing but this time ask your neighbor what their favority foods are.
-
-Using the `spread` operator, build a final object `allFoods` with the items from `faveFoods` and `friendFaveFoods` together.
-
 ## Lesson Recap
   We learned how ES6 introduced new things to JavaScript and made our code more readable.  We learned about the differences between ES5 and ES6 and why it's important we stick to ES6 going forward.
   
